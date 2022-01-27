@@ -1,0 +1,8 @@
+1. Kopieer standaard software map. (X: schijf)
+2. Maak een nieuw project. (Project map)
+3. Voeg een Controller toe.
+
+-------------------------------------------------
+
+4. Voeg all DO's, DI's, AI's, en AO's toe.
+5. Deel alle onderdelen op in logische blokken toe. (Vanuit shared templates)
